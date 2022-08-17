@@ -1,9 +1,9 @@
-- title: 
+- title: Email
   url: 
-  icon: 
-- title: 
+  icon: fas fa-envelope
+- title: Twitter
   url: 
-  icon: 
-- title: 
+  icon: fab fa-twitter
+- title: GitHub
   url: 
-  icon: 
+  icon: fab fa-github
