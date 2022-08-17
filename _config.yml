@@ -27,18 +27,7 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-# Optimize Jekyl SEO Tag
-twitter:
-  username: 
-  card: 
-logo: 
-social:
-  name: 
-  links:
-    - 
-    - 
-google_site_verification: 
-lang: 
+
 
 sass:
   sass_dir: _sass
