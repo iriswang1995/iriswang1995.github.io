@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Iris 的博客
+description: 简单的学习记录
+url: https://iriswang1995.github.io/
+avatar: /头像.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /背景.gif
 
 # Gems
 plugins:
@@ -29,16 +29,16 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
+  username: 
+  card: 
+logo: 
 social:
-  name: Songzi Vong
+  name: 
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
-google_site_verification: xxxxx
-lang: en
+    - 
+    - 
+google_site_verification: 
+lang: 
 
 sass:
   sass_dir: _sass
@@ -51,9 +51,3 @@ sass:
 
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
-
-# Specify the author for blog posts
-author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
