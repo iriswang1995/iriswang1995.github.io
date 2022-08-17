@@ -27,7 +27,18 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-
+# Optimize Jekyl SEO Tag
+twitter:
+  username: 
+  card: summary
+logo: logo.png
+social:
+  name: 
+  links:
+    - 
+    - 
+google_site_verification: xxxxx
+lang: en
 
 sass:
   sass_dir: _sass
@@ -40,3 +51,9 @@ sass:
 
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
+
+# Specify the author for blog posts
+author:
+  name: 
+  url: 
+  email: 
